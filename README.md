@@ -1,0 +1,2 @@
+# Fairness-in-Personalized-Medicine-Using-Graphical-Models
+This project used Bayesian Networks to model personalized medicine, ensuring fairness in treatment predictions across demographic factors. By analyzing biases with fairness metrics and applying mitigation techniques, it reduced disparities, improved ethical AI in healthcare, and highlighted interpretable insights for equitable treatment outcomes.
